@@ -1,0 +1,11 @@
+jax
+jaxlib
+chex
+flax
+numpy
+scipy
+matplotlib
+optax
+tqdm
+brax
+git+https://github.com/google/trajax
